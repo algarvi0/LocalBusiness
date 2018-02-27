@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Local Business Card</string>
+    <string name="logodesc">ToonsDomain.com logo image</string>
+    <string name="text1">WebSites - Domains \nHosting</string>
+    <string name="text1land">WebSites\nDomains\nHosting</string>
+    <string name="phone" translatable="false">+351 968 041 008</string>
+    <string name="website" translatable="false">toonsdomain.com</string>
+    <string name="address" translatable="false">Olhão, Portugal</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#1976d2</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="material_blue_900">#0d47a1</color>
+    <color name="material_grey_50" tools:ignore="PrivateResource">#FAFAFA</color>
+    <color name="material_grey_100" tools:ignore="PrivateResource">#F5F5F5</color>
+    <color name="material_grey_300" tools:ignore="PrivateResource">#E0E0E0</color>
+    <color name="material_grey_600" tools:ignore="PrivateResource">#757575</color>
+    <color name="material_grey_800" tools:ignore="PrivateResource">#424242</color>
+    <color name="material_grey_900" tools:ignore="PrivateResource">#212121</color>
+    <color name="material_blue_grey_800" tools:ignore="PrivateResource">#37474F</color>
+    <color name="material_blue_grey_900" tools:ignore="PrivateResource">#263238</color>
+    <color name="material_light_white">#ffffff</color>
+</resources>
